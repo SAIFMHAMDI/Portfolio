@@ -211,7 +211,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Saif optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Ilyes Fatfouti",
       designation: "Software Engineer",
       company: "Sopra",
