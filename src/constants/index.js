@@ -195,7 +195,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Saif proved me wrong.",
       name: "Ayoub Jebali",
       designation: "DevOps Engineer",
       company: "Vermeg",
@@ -203,7 +203,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Saif does.",
       name: "Marwen Omrani",
       designation: "Developer",
       company: "Web Media International",
